@@ -4,31 +4,40 @@
 </br>
 </hr>
 
-<h3 align="center">About me</h3>
- <h3>
-  <b>Full-stack developer with hands-on experience building production-ready web applications</b> </br>
- <b>Strong foundation in JavaScript, TypeScript, React, Node.js, and MongoDB</b> </br>
- <b>Actively preparing for product-based company roles (2026)</b></br>
- </h3>
+<h2 align="center">About me</h2>
+
+<div align="center">
+ <h3>  <b>Full-stack developer with hands-on experience building production-ready web applications</b></h3> </br> 
+ <h3><b>Strong foundation in JavaScript, TypeScript, React, Node.js, and MongoDB</b></h3> </br>
+ <h3><b>Actively preparing for product-based company roles (2026)</b></h3></br>
+</div>
 <br/>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<div align="center">
-    <h4>Tech Stack</h4>
-<h3><b>Frontend:</b></h3>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,redux" /><br>
 
-<h3><b>Backend:</b></h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express" /><br>
+<p align="center">
+  <b>Frontend:</b>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,redux&size=32" />
+</p>
 
-<h3><b>Databases:</b></h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
+<p align="center">
+  <b>Backend:</b>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&size=32" />
+</p>
 
-<h3><b>Tools:</b></h3>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
+<p align="center">
+  <b>Databases:</b>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&size=32" />
+</p>
+
+<p align="center">
+  <b>Tools:</b>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render&size=32" />
+</p>
+
 
 </div>
 

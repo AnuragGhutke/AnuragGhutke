@@ -1,7 +1,6 @@
  <h1 >
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag!;" />
 </h1>
-</br>
 </hr>
 
 <p align="left">
@@ -27,7 +26,7 @@ My name is Anurag and I’m a full-stack developer.
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
   <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="32" />
+<img src="https://skillicons.dev/icons?i=express&size=32&theme=light" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
   <img width="10" />

@@ -3,43 +3,35 @@
 </h1>
 </br>
 </hr>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h2 align="center">About me</h2>
-
-<div align="center">
- <h3>  <b>Full-stack developer with hands-on experience building production-ready web applications</b></h3> </br> 
- <h3><b>Strong foundation in JavaScript, TypeScript, React, Node.js, and MongoDB</b></h3> </br>
- <h3><b>Actively preparing for product-based company roles (2026)</b></h3></br>
-</div>
-<br/>
-
- <hr/>
- 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
-
-<p align="center">
-  <b>Frontend:</b>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,redux&size=32" />
+<p align="left">
+My name is Anurag and I’m a full-stack developer.
 </p>
 
-<p align="center">
-  <b>Backend:</b>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&size=32" />
+<h2 align="left">About me</h2>
+
+<p align="left">
+💻 Building real-world full-stack web applications using MERN stack<br>
+📚 Currently practicing DSA in Java alongside development<br>
+🧠 Focused on writing clean, scalable, and maintainable code
 </p>
 
-<p align="center">
-  <b>Databases:</b>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&size=32" />
-</p>
+<h2 align="left">My Tech Stack</h2>
 
-<p align="center">
-  <b>Tools:</b>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render&size=32" />
-</p>
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
 </div>
 
-<br/>
-<hr/>

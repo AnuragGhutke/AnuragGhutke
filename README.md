@@ -26,7 +26,7 @@ My name is Anurag and I’m a full-stack developer.
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
   <img width="10" />
-<img src="https://skillicons.dev/icons?i=express&size=32&theme=light" />
+  <img src="https://skillicons.dev/icons?i=express&size=32&theme=light"  height="32"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
   <img width="10" />

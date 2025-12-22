@@ -32,10 +32,10 @@ My name is Anurag and I’m a full-stack developer.
 
 </div>
 
-<h2 align="left">📫 Reach me</h2>
+<h2 align="left">Reach me</h2>
 <p align="left">
-  ✉️ Email: <a href="mailto:anurag135ghutke@gmail.com">anurag135ghutke@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/your-linkedin">linkedin.com/in/your-linkedin</a>
+  Email: <a href="mailto:anurag135ghutke@gmail.com">anurag135ghutke@gmail.com</a><br>
+  LinkedIn: <a href="https://linkedin.com/in/your-linkedin">linkedin.com/in/your-linkedin</a>
 </p>
 
 

@@ -3,9 +3,9 @@
 </h1>
 </hr>
 
-<p align="left">
+<h3 align="left">
 My name is Anurag and I’m a full-stack developer.
-</p>
+</h3>
 
 <h2 align="left">About me</h2>
 

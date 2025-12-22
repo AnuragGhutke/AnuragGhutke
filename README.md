@@ -5,27 +5,29 @@
 </hr>
 
 <h3 align="center">About me</h3>
- <b>Full-stack developer with hands-on experience building production-ready web applications</b>
- <b>Strong foundation in JavaScript, TypeScript, React, Node.js, and MongoDB</b>
- <b>Actively preparing for product-based company roles (2026)</b>
+ <h3>
+  <b>Full-stack developer with hands-on experience building production-ready web applications</b> </br>
+ <b>Strong foundation in JavaScript, TypeScript, React, Node.js, and MongoDB</b> </br>
+ <b>Actively preparing for product-based company roles (2026)</b></br>
+ </h3>
 <br/>
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="justify-center">
+<div align="center">
     <h4>Tech Stack</h4>
-Frontend:
+<h3><b>Frontend:</b></h3>
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,redux" /><br>
 
-Backend:
+<h3><b>Backend:</b></h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express" /><br>
 
-Databases:
+<h3><b>Databases:</b></h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
 
-Tools:
+<h3><b>Tools:</b></h3>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
 
 </div>

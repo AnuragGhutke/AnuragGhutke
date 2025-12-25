@@ -11,7 +11,7 @@ My name is Anurag and I’m a full-stack developer.
 
 <p align="left">
 💻 Building real-world full-stack web applications using MERN stack<br>
-📚 Currently practicing DSA in Java alongside development<br>
+📚 Currently practicing DSA alongside development<br>
 🧠 Focused on writing clean, scalable, and maintainable code
 </p>
 

@@ -4,7 +4,7 @@
 </hr>
 
 <h4 align="left">
-My name is Anurag and I’m a full-stack developer.
+I’m a full-stack developer.
 </h4>
 
 <h2 align="left">About me</h2>

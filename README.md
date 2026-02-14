@@ -15,7 +15,7 @@ I’m a full-stack developer.
 🧠 Focused on writing clean, scalable, and maintainable code
 </p>
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left">My Stack</h2>
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=react&size=32" />
